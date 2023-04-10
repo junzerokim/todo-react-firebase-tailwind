@@ -2,4 +2,4 @@
 
 React, Firebase, Tailwind
 
-Uploading Screen Recording 2023-04-10 at 12.42.38 PM.mov…
+https://user-images.githubusercontent.com/72692386/230821419-559b8af5-4a9b-4b4f-9310-016dfadbb928.mov
